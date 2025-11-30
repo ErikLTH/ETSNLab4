@@ -18,14 +18,6 @@ def main():
         return
 
 
-    print(lines[0])
-    
-    # for j in lines:
-    #     if j == "\n":
-    #         print("Empty line")
-    #     print(j)
-    #     print("\n")
-
     counter = 0
     
     for line in lines:
